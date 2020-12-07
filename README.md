@@ -5,7 +5,7 @@
 Copyright (C) 2018 Arthur Zwaenepoel
 
 VIB/UGent center for plant systems biology -
-Bioinformatics & evolutionary genomics group https://www.vandepeerlab.org/
+Bioinformatics & evolutionary genomics group https://www.vandepeerlab.org/test
 
 # wgd - simple command line tools for the analysis of ancient whole-genome duplications
 
